@@ -20,7 +20,7 @@ public class Test01 {
 		/*System.out.println("姓名:"+name);
 		System.out.println("性别"+sex);
 		System.out.println("年龄:"+age);
-		System.out.println("考试分数:"+score);*/
+		System.out.println("考试分数:"+score);
 		
 		
 	}
